@@ -1,6 +1,6 @@
 ---
 title: "HWP 한글 대체"
-author: "Kwangchun Lee"
+author: "Kwangchun Lee, 한수미,Kim..."
 date: "2018년 10월 28일"
 output: html_document
 ---
@@ -43,7 +43,11 @@ head(iris)
 ### 요약 통계량 만들기
 
 ```{r}
+```
 
+## 참고문헌 작업함.... 
+
+참 일이 만하요...
 
 
 
