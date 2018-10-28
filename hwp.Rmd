@@ -1,6 +1,7 @@
 ---
 title: "HWP 한글 대체"
-author: "Kwangchun Lee, 한수미"
+author: "Kwangchun Lee, 한수미,Kim... 학과장님
+사랑합니다."
 date: "2018년 10월 28일"
 output: html_document
 ---
