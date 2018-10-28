@@ -1,0 +1,50 @@
+---
+title: "HWP 한글 대체"
+author: "Kwangchun Lee"
+date: "2018년 10월 28일"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## 한글의 주요기능
+
+## 문장 작성...
+
+한글 파일에 포함된 문장은 이것으로 대체 가능합니다.
+
+## 수식
+
+$E=mc^2$
+
+## 이미지
+
+![수지는 한글을 싫어 합니다](suji.jpg)
+
+## 표
+
+| 첫번째 칼럼 | 두번째 칼럼 |
+|-------------|-------------|
+| 1번         | 2번         |
+
+
+## 데이터 분석 결과
+
+### 원본데이터 살펴보기
+
+```{r}
+library(tidyverse)
+
+head(iris)
+```
+
+### 요약 통계량 만들기
+
+```{r}
+
+
+
+
+
